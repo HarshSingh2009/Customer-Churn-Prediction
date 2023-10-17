@@ -8,7 +8,6 @@ import sklearn
 # Tenure is between 0-10
 
 with st.sidebar:
-    st.image('tensorflow_developer_cert.png')
     selected = option_menu(
         menu_title='Customer Churn Prediction',
         menu_icon='🕵️',
