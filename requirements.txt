@@ -1,0 +1,5 @@
+tensorflow
+streamlit
+streamlit_option_menu
+numpy
+scikit-learn
